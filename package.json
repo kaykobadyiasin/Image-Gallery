@@ -10,11 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "animate.css": "^4.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-gesture-responder": "^2.1.0",
-    "react-grid-dnd": "^2.1.2",
-    "react-router-dom": "^6.17.0"
+    "react-grid-dnd": "^2.1.2"
   },
   "devDependencies": {
     "@iconify/react": "^4.1.1",
